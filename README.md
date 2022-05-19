@@ -33,11 +33,11 @@ In 2019-20 I completed Udacity's [Data Science Nanodegree](https://www.udacity.c
 * [Image classification capstone](https://github.com/deacona/dog-project)
 
 
-## ⚡ My GitHub stats ...
+<!-- ## ⚡ My GitHub stats ...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deacona&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deacona)](https://github.com/deacona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deacona)](https://github.com/deacona/github-readme-stats) -->
 
 
 ## 📫 How to reach me ...
