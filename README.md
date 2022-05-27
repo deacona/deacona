@@ -37,7 +37,7 @@ In 2019-20 I completed Udacity's [Data Science Nanodegree](https://www.udacity.c
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=deacona&show_icons=true&count_private=true)
 <!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deacona)](https://github.com/deacona/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deacona&layout=compact&langs_count=10&hide=jupyter%20notebook,html)] -->
 
 
 ## 📫 How to reach me ...
